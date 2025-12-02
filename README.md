@@ -58,4 +58,4 @@ You can use this code as a base for your own personal portfolio.
 
 📫 Contact
 
-📧 Email: siddhantsinghchampion@gmail.com
+📧 Email: utkarshverma310806@gmail.com
